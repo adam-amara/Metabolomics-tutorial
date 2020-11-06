@@ -9,6 +9,7 @@ Here we present you a Jupyter Notebook containing a data analysis workflow:
 
 * Notebook 1: Metabolomics data analysis workflow
 You can access and run this interactive notebook online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adam-amara/Metabolomics-tutorial/HEAD)
+
 If you want to run this notebook on your local machine make sure to install Jupyter, Python, and the dependencies used for this tutorial (see Notebook Part 1 to find the libraries used)
 
 
