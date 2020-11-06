@@ -5,11 +5,9 @@ This repository contains material for the metabolomics practical tutorial part o
 
 Here you will use interactive Jupyter Notebooks run in Binder to test an example of a metabolomics data analysis workflow. 
 
-Here we present you 2 main Jupyter Notebooks, with one containing an exemple of data pre-processing and processing and one with a data analysis workflow:
+Here we present you a Jupyter Notebook containing a data analysis workflow:
 
-* Notebook 1: Metabolomics data processing.
-
-* Notebook 2: Metabolomics data analysis workflow
+* Notebook 1: Metabolomics data analysis workflow
 
 
 The data analysis tutorial is inspired and derived from the Jupyter Notebooks tutorial based on publication: "Toward Collaborative Open Data Science in Metabolomics using Jupyter Notebooks and Cloud Computing". `SI_Mendez_etal_2019`
