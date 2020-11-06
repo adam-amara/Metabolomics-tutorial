@@ -8,6 +8,8 @@ Here you will use interactive Jupyter Notebooks run in Binder to test an example
 Here we present you a Jupyter Notebook containing a data analysis workflow:
 
 * Notebook 1: Metabolomics data analysis workflow
+You can access and run this interactive notebook online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adam-amara/Metabolomics-tutorial/HEAD)
+
 
 
 The data analysis tutorial is inspired and derived from the Jupyter Notebooks tutorial based on publication: "Toward Collaborative Open Data Science in Metabolomics using Jupyter Notebooks and Cloud Computing". `SI_Mendez_etal_2019`
