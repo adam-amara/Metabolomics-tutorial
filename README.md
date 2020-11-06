@@ -7,11 +7,12 @@ Here you will use interactive Jupyter Notebooks run in Binder to test an example
 
 Here we present you a Jupyter Notebook containing a data analysis workflow:
 
-* Notebook 1: Metabolomics data analysis workflow
+Notebook on Metabolomics data analysis workflow
 You can access and run this interactive notebook online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adam-amara/Metabolomics-tutorial/HEAD)
-Step 1: click on the Binder linker / wait for Binder to create an environment
-Step 2: Click on the Notebook: "Tutorial_NMR_LC-MS.ipynb"
-Step 3: You can use the notebook and run snippets of codes or the whole notebook at once
+
+* Step 1: click on the Binder linker / wait for Binder to create an environment
+* Step 2: Click on the Notebook: "Tutorial_NMR_LC-MS.ipynb"
+* Step 3: You can use the notebook and run snippets of codes or the whole notebook at once
 
 
 If you want to run this notebook on your local machine make sure to install Jupyter, Python, and the dependencies used for this tutorial (see Notebook Part 1 to find the libraries used)
