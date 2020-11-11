@@ -16,3 +16,20 @@ dependencies:
   - scikit-learn=0.21.1
   - seaborn=0.9.0
   - xlrd=1.2.0
+  - pheatmap_1.0.12
+  - magrittr_1.5*
+  - pander_0.6.3        
+  - RColorBrewer_1.1-2
+  - multtest_2.42.0
+  - msdata_0.26.0    
+  - xcms_3.8.2
+  - MSnbase_2.12.0 
+  - ProtGenerics_1.18.0 
+  - S4Vectors_0.24.4     
+  - mzR_2.20.0           
+  - Rcpp_1.0.5          
+  - BiocParallel_1.20.1  
+  - Biobase_2.46.0       
+  - BiocGenerics_0.32.0 
+  - scatterplot3d_0.3-41 
+  - ggplot2_3.3.2   
