@@ -5,7 +5,9 @@ This repository contains material for the metabolomics practical tutorial part o
 
 Here you will use interactive Jupyter Notebooks run in Binder to test an example of a metabolomics data analysis workflow. 
 
-Here we present you a Jupyter Notebook containing a data analysis workflow:
+Here we present you two Jupyter Notebook one for a LC-MS data processing and one for a data analysis workflow:
+* LC-MS data processing: "tutorial_XCMS.ipynb"
+* NMR & LC-MS data analysis: "Tutorial_NMR_and_LCMS.ipynb"
 
 Notebook on Metabolomics data analysis workflow
 You can access and run this interactive notebook online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adam-amara/Metabolomics-tutorial/HEAD)
