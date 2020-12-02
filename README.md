@@ -6,7 +6,13 @@ This repository contains material for the metabolomics practical tutorial part o
 Here you will use interactive Jupyter Notebooks run in Binder to test an example of a metabolomics data analysis workflow. 
 
 Here we present you two Jupyter Notebook one for a LC-MS data processing and one for a data analysis workflow:
+
 * LC-MS data processing: "tutorial_XCMS.ipynb"
+This notebook requires that you have Jupyter with R 3.6.3 kernel setup (the R notebook version will also be available) and install Bioconductor by running the script install.R. The files are available in XCMS_processing
+The data to be used is available to download here:  
+
+This notebook has some exercises at the end without solutions in the folder "XCMS_processing" https://github.com/adam-amara/Metabolomics-tutorial/tree/main/XCMS_processing and with solutions in the subfolder "solution" https://github.com/adam-amara/Metabolomics-tutorial/tree/main/XCMS_processing/solution
+
 * NMR & LC-MS data analysis: "Tutorial_NMR_and_LCMS.ipynb"
 
 Notebook on Metabolomics data analysis workflow
